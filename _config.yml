@@ -1,0 +1,28 @@
+name: Toni Bauza Mesquida
+favicon: null
+layout_spectrum: 0.06089622178114951
+typography_spectrum: 0.7356270982418209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3575074134860188
+  lightness: 0.8943742250557989
+  saturation: 0.4705085242167115
+  rhythmicContrast: 0.4468925108667463
+purpose: []
